@@ -1,0 +1,31 @@
+h1{
+    color: black
+    
+}
+nav{
+    background-color: black;
+}
+ul{
+    list-style-type:none
+    margin: none
+    padding: 0%;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration:none
+}
+
+h2{
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+
+}
